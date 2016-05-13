@@ -4,8 +4,8 @@ XML to JSON translator
 
 cmd:
 
-antlr4 Hello.g4
+antlr4 XML2JSON.g4
 
-javac Hello*.java
+javac XML2JSON*.java
 
-java Hello test.txt
+java XML2JSON test.txt
