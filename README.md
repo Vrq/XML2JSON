@@ -5,7 +5,7 @@ The project consists of a set of Java classes which are necessary to run the who
 
 ANTLR4 was used as the main support tool for generating lexer, parser and listener files. For more info look on: http://www.antlr.org/ - Terence Parr is doing a great job there.
 
-Install manual:
+<strong>Install manual:</strong>
 1) Download all files
 
 2) Command line:
