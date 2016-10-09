@@ -1,5 +1,5 @@
 # xml2json
-XML to JSON translator
+XML to JSON parser, written in Java.
 
 The project consists of a set of Java classes which are necessary to run the whole process of translating the code in XML format, given in the test.txt input to the code in JSON.
 
